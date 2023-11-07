@@ -1,0 +1,13 @@
+gymnasium
+pygame
+# numpy
+# matplotlib
+# pandas
+# seaborn
+# scipy
+# scikit-learn
+# opencv-python
+# pillow
+# ipython
+# pydotplus
+# streamlit
