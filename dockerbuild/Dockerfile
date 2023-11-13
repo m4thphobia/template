@@ -17,7 +17,7 @@ COPY dockerbuild/entrypoint.sh /
 COPY dockerbuild/requirements.txt /
 RUN pip install -r /requirements.txt
 
-WORKDIR /workspace/src
+WORKDIR /workspace
 
 
 ENTRYPOINT ["/entrypoint.sh"]
