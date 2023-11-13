@@ -1,9 +1,10 @@
 gymnasium
 pygame
+gym
 # numpy
 # matplotlib
 # pandas
-# seaborn
+seaborn
 # scipy
 # scikit-learn
 # opencv-python
@@ -11,3 +12,5 @@ pygame
 # ipython
 # pydotplus
 # streamlit
+
+#pyvirtualdisplay
