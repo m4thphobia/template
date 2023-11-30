@@ -13,6 +13,8 @@ if [ x"$USER_ID" != x"0" ]; then
 fi
 
 mkdir -p /workspace/src
+#mkdir -p /workspace/out /workspace/var /workspace/data
+#touch /workspace/src/model.py /workspace/src/train.py /workspace/src/utils.py /workspace/src/dataset.py
 
 # パーミッションを元に戻す
 sudo chmod u-s /usr/sbin/useradd

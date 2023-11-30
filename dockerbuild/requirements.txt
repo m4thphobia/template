@@ -1,16 +1,23 @@
-gymnasium
-pygame
-gym
+# gymnasium
+# gymnasium[atari]
+# gymnasium[accept-rom-license]
+# pygame
+# gym-miniworld
+# gymnasium[box2d]
+
+seaborn
+opencv-python
+tensorflow
+albumentations
+# pydotplus
+# streamlit
+# pyvirtualdisplay
+
 # numpy
 # matplotlib
 # pandas
-seaborn
 # scipy
 # scikit-learn
-# opencv-python
 # pillow
 # ipython
-# pydotplus
-# streamlit
 
-#pyvirtualdisplay
