@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gym==0.21.0
 pybullet
 
@@ -5,6 +6,19 @@ pybullet
 # opencv-python
 # tensorflow
 # albumentations
+=======
+# gymnasium
+# gymnasium[atari]
+# gymnasium[accept-rom-license]
+# pygame
+# gym-miniworld
+# gymnasium[box2d]
+
+seaborn
+opencv-python
+tensorflow
+albumentations
+>>>>>>> c27ee6d23256e4637207c9b80524d1c3c20f3691
 # pydotplus
 # streamlit
 # pyvirtualdisplay
@@ -16,3 +30,7 @@ pybullet
 # scikit-learn
 # pillow
 # ipython
+<<<<<<< HEAD
+=======
+
+>>>>>>> c27ee6d23256e4637207c9b80524d1c3c20f3691
