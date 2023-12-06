@@ -1,13 +1,18 @@
-gymnasium
-pygame
+gym==0.21.0
+pybullet
+
+# seaborn
+# opencv-python
+# tensorflow
+# albumentations
+# pydotplus
+# streamlit
+# pyvirtualdisplay
+
 # numpy
 # matplotlib
 # pandas
-# seaborn
 # scipy
 # scikit-learn
-# opencv-python
 # pillow
 # ipython
-# pydotplus
-# streamlit

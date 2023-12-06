@@ -4,7 +4,8 @@ RUN apt update && apt upgrade -y \
     && apt install && apt install -y --no-install-recommends \
     sudo \
     tmux \
-    tree
+    tree \
+    xclip
 
 ENV USER_NAME=developer
 

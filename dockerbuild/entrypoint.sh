@@ -12,7 +12,7 @@ if [ x"$USER_ID" != x"0" ]; then
     useradd -d /home/$USER_NAME -m -s /bin/bash -u $USER_ID -g $GROUP_ID $USER_NAME
 fi
 
-mkdir -p /workspace/src
+# mkdir -p /workspace/src
 
 # パーミッションを元に戻す
 sudo chmod u-s /usr/sbin/useradd
